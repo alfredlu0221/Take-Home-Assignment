@@ -5,7 +5,7 @@ This project provides financial API services in Python for development purposes.
     - Programming languages (Python)
     - Frameworks (Flask, Docker)
     - Databases (SQLite)
-    - Command line tools (Curl)
+    - Command line tools (Curl, Git Bash)
 
 ## How to run the code in local environment
 1. To start docker application and to confirm that it is running properly, run the following command:
