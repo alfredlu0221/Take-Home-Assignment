@@ -15,10 +15,12 @@ This project provides financial API services in Python for development purposes.
 Get financial data API:
 ```bash
 curl -X GET 'http://localhost:5000/api/financial_data?start_date=2023-05-01&end_date=2023-05-31&symbol=IBM&limit=3&page=2'
+```
 
 Get statistics API:
 ```bash
 curl -X GET 'http://localhost:5000/api/statistics?start_date=2023-01-01&end_date=2023-01-31&symbol=IBM'
+```
 
 ### Provide a description of how to maintain the API key to retrieve financial data from AlphaVantage in both local development and production environment.
 Local development:
