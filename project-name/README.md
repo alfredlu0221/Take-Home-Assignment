@@ -9,7 +9,9 @@ This project provides financial API services in Python for development purposes.
 
 ## How to run the code in local environment
 1. To start docker application and to confirm that it is running properly, run the following command:
+```bash
  docker compose -f docker-compose.yml up --build
+```
 2. Open a new terminal then make a GET request to the server using the curl commands:
 
 Get financial data API:
